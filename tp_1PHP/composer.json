@@ -1,0 +1,12 @@
+{
+    "name": "asus/tp_1",
+    "authors": [
+        {
+            "name": "jose",
+            "email": "josee.ariasmelo@gmail.com"
+        }
+    ],
+    "require": {
+        "namnv609/php-rest-countries": "^1.0"
+    }
+}
